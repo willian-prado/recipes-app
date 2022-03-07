@@ -44,11 +44,11 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 
 #### Obrigatórios
 
-### Testes unitários
+#### `Testes unitários`
 
 #### 1 - Desenvolva os testes unitários de maneira que a cobertura seja de, no mínimo, 90%
 
-### Tela de login
+#### `Tela de login`
 
 #### 2 - Crie todos os elementos que devem respeitar os atributos descritos no protótipo para a tela de login
 #### 3 - Desenvolva a tela de maneira que a pessoa deve conseguir escrever seu email no input de email
@@ -58,7 +58,7 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 #### 7 - Salve o e-mail da pessoa usuária no localStorage na chave user após a submissão
 #### 8 - Redirecione a pessoa usuária para a tela principal de receitas de comidas após a submissão e validação com sucesso do login
 
-### Header
+#### `Header`
 
 #### 9 - Implemente os elementos do header na tela principal de receitas, respeitando os atributos descritos no protótipo
 #### 10 - Implemente um ícone para a tela de perfil, um título e um ícone para a busca, caso exista no protótipo
@@ -71,7 +71,7 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 #### 17 - Mostre as receitas em cards caso mais de uma receita seja encontrada
 #### 18 - Exiba um `alert` caso nenhuma receita seja encontrada
 
-### Footer
+#### `Footer`
 
 #### 19 - Implemente os elementos do menu inferior respeitando os atributos descritos no protótipo
 #### 20 - Posicione o menu inferior de forma fixa e apresente 3 ícones: um para comidas, um para bebidas e outro para exploração
@@ -80,7 +80,7 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 #### 23 - Redirecione a pessoa usuária para a tela de explorar ao clicar no ícone de exploração
 #### 24 - Redirecione a pessoa usuárua para uma lista de comidas ao clicar no ícone de comidas
 
-### Tela principal de receitas
+#### `Tela principal de receitas`
 
 #### 25 - Implemente os elementos da tela principal de receitas respeitando os atributos descritos no protótipo
 #### 26 - Carregue as 12 primeiras receitas de comidas ou bebidas, uma em cada card
@@ -91,7 +91,7 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 #### 31 - Desenvolva o filtro de categorias com a opção de filtrar por todas as categorias
 #### 32 - Redirecione a pessoa usuária, ao clicar no card, para a tela de detalhes, que deve mudar a rota e conter o id da receita na URL
 
-### Tela de detalhes de uma receita
+#### `Tela de detalhes de uma receita`
 
 #### 33 - Implemente os elementos da tela de detalhes de uma receita respeitando os atributos descritos no protótipo
 #### 34 - Realize uma request para a API passando o `id` da receita que deve estar disponível nos parâmetros da URL
@@ -108,7 +108,7 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 #### 45 - Implemente a lógica no botão de favoritar, caso seja clicado, o ícone do coração deve mudar seu estado atual, caso esteja preenchido deve mudar para "despreenchido" e vice-versa
 #### 46 - Salve as receitas favoritas no `localStorage` na chave `favoriteRecipes`
 
-### Tela de receita em progresso
+#### `Tela de receita em progresso`
 
 #### 47 - Desenvolva a tela de maneira que contenha uma imagem da receita, seu titulo, sua categoria (ou se a bebida é alcoólica ou não) uma lista de ingredientes com suas respectivas quantidade e suas instruções
 #### 48 - Desenvolva um checkbox para cada item da lista de ingredientes
@@ -118,7 +118,7 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 #### 52 - Implemente a solução de maneira que o botão de finalizar receita só pode estar habilitado quando todos os ingredientes estiverem _"checkados"_ (marcados)
 #### 53 - Redirecione a pessoa usuária após clicar no botão "Finalizar receita", para a página de receitas feitas, cuja rota deve ser `/receitas-feitas`
 
-### Tela de receitas feitas
+#### `Tela de receitas feitas`
 
 #### 54 - Implemente os elementos da tela de receitas feitas respeitando os atributos descritos no protótipo
 #### 55 - Desenvolva a tela de maneira que, caso a receita do card seja uma comida, ela deve possuir: a foto da receita, o nome, a categoria, a area, a data em que a pessoa fez a receita, as 2 primeiras tags retornadas pela API e um botão de compartilhar
@@ -127,7 +127,7 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 #### 58 - Implemente 2 botões que filtram as receitas por comida ou bebida e um terceiro que remove todos os filtros
 #### 59 - Redirecione para a tela de detalhes da receita caso seja clicado na foto ou no nome da receita
 
-### Tela de receitas favoritas
+#### `Tela de receitas favoritas`
 
 #### 60 - Implemente os elementos da tela de receitas favoritas (cumulativo com os atributos em comum com a tela de receitas feitas) respeitando os atributos descritos no protótipo
 #### 61 - Desenvolva a tela de maneira que, caso a receita do card seja uma comida, ela deve possuir: a foto da receita, o nome, a categoria, a area, um botão de compartilhar e um de "desfavoritar"
@@ -137,13 +137,13 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 #### 65 - Implemente 2 botões que filtram as receitas por comida ou bebida e um terceiro que remove todos os filtros
 #### 66 - Redirecione a pessoa usuária ao clicar na foto ou no nome da receita, a rota deve mudar para a tela de detalhes daquela receita
 
-### Tela de explorar
+#### `Tela de explorar`
 
 #### 67 - Implemente os elementos da tela de explorar respeitando os atributos descritos no protótipo
 #### 68 - Desenvolva a tela de maneira que tenha 2 botões: um para explorar comidas e o outro para explorar bebidas
 #### 69 - Redirecione a pessoa usuária ao clicar em um dos botões, a rota deve mudar para a página de explorar comidas ou de explorar bebidas
 
-### Tela de explorar bebidas ou comidas
+#### `Tela de explorar bebidas ou comidas`
 
 #### 70 - Implemente os elementos da tela de explorar bebidas ou comidas respeitando os atributos descritos no protótipo
 #### 71 - Desenvolva 3 botões: um para explorar por ingrediente, um para explorar por local de origem e um para pegar uma receita aleatória
@@ -151,20 +151,20 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 #### 73 - Redirecione a pessoa usuária ao clicar em "Por Local de Origem", a rota deve mudar para tela de explorar por local de origem
 #### 74 - Redirecione a pessoa usuária ao clicar em "Me Surpreenda!", a rota deve mudar para a tela de detalhes de uma receita, que deve ser escolhida de forma aleatória através da API
 
-### Tela de explorar ingredientes
+#### `Tela de explorar ingredientes`
 
 #### 75 - Implemente os elementos da tela de explorar ingredientes respeitando os atributos descritos no protótipo
 #### 76 - Desenvolva cards para os 12 primeiros ingredientes, de forma que cada card contenha o nome do ingrediente e uma foto
 #### 77 -  Redireciona a pessoa usuária ao clicar no card do ingrediente, a rota deve mudar para tela principal de receitas mas mostrando apenas as receitas que contém o ingrediente escolhido
 
-### Tela de explorar por local de origem/area
+#### `Tela de explorar por local de origem/area`
 
 #### 78 - Implemente os elementos da tela de explorar por local de origem respeitando os atributos descritos no protótipo
 #### 79 - Desenvolva as mesmas especificações da tela de receitas principal, com a diferença de que os filtros de categoria são substituídos por um dropdown
 #### 80 - Implemente o dropdown de maneira que devem estar disponíveis todas as áreas retornadas da API, incluindo a opção "All", que retorna as receitas sem nenhum filtro
 #### 81 - Implemente a rota que deve ser apenas `/explorar/comidas/area`
 
-### Tela de perfil
+#### `Tela de perfil`
 
 #### 82 - Implemente os elementos da a tela de perfil respeitando os atributos descritos no protótipo
 #### 83 - Implemente a solução de maneira que o e-mail da pessoa usuária deve estar visível
