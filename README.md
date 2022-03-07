@@ -2,7 +2,7 @@
 
 > Nono e último projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
 
-Em nosso último e mais desafiador projeto em grupo de Front-end, colocamos em prática todos os nossos conhecimentos sobre React, especialmente Context API e React Hooks. Além disso, praticamos a organização de um projeto em equipe com a metodologia Kanban. Como nos anteriores, os requisitos foram distribuídos entre os membros do grupo e desenvolvidos em paralelo. O desenvolvimento da aplicação foi acompanhado no aplicativo Trello.
+Em nosso último e mais desafiador projeto em grupo de Front-end, colocamos em prática todos os nossos conhecimentos sobre React, especialmente Context API e React Hooks. Além disso, praticamos a organização de um projeto em equipe com a metodologia Kanban. Inicialmente, desenvolvemos em grupo toda a organização geral do projeto, como estruturação de pastas e rotas. Posteriormente, os requisitos foram distribuídos entre os membros do grupo e desenvolvidos em paralelo. O desenvolvimento da aplicação foi acompanhado no aplicativo Trello.
 
 **Objetivo do projeto**
 
