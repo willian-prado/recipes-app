@@ -2,12 +2,13 @@
 
 > Nono e último projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
 
+**Contexto**
+
 Em nosso último e mais desafiador projeto em grupo de Front-end, colocamos em prática todos os nossos conhecimentos sobre React, especialmente Context API e React Hooks. Além disso, praticamos a organização de um projeto em equipe com a metodologia Kanban. Inicialmente, desenvolvemos em grupo toda a organização geral do projeto, como estruturação de pastas e rotas. Posteriormente, os requisitos foram distribuídos entre os membros do grupo e desenvolvidos em paralelo. O desenvolvimento da aplicação foi acompanhado no aplicativo Trello.
 
 **Objetivo do projeto**
 
-O projeto consiste em desenvolver um sistema que permite visualizar , buscar , filtrar , favoritar , compartilhar e acompanhar o processo de preparação de receitas e drinks . A base de dados serão 2 APIs distintas, uma para comidas  [TheMealDB](https://www.themealdb.com/) e outra para bebidas [TheCocktailDB](https://www.thecocktaildb.com/api.php).
-
+Desenvolver um sistema que permite visualizar , buscar , filtrar , favoritar , compartilhar e acompanhar o processo de preparação de receitas e drinks . A base de dados serão 2 APIs distintas, uma para comidas  [TheMealDB](https://www.themealdb.com/) e outra para bebidas [TheCocktailDB](https://www.thecocktaildb.com/api.php).
 
 **Principais habilidades desenvolvidas nesse trabalho:**
 
@@ -16,6 +17,17 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
   - Utilizar o React Hook useContext
   - Utilizar o React Hook useEffect
   - Criar Hooks customizados
+
+**Tecnologias utilizadas**
+
+- <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" align="center" height="35"/> - HTML</a> 
+- <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" align="center" height="35"/> - CSS</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" align="center" height="30"/> - JavaScript</a>
+- <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" align="center" height="35"/> - React</a>
+- <a href="https://reactrouter.com/docs/en/v6/getting-started/overview"><img src="https://reacttraining.com/images/blog/reach-react-router-future.png" title="React Router" align="center" height="30"/> - React Router</a>
+- <a href="https://reactjs.org/"><img src="https://testing-library.com/img/octopus-128x128.png" title="React Testing Library" alt="react testing library" height="30" align="center"/> - React Testing Library</a>
+- <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" align="center" height="30"/> - Jest</a>
+- <a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" height="30" align="center"/>  - Trello</a>
 
 *Projeto desenvolvido em grupo com Gustavo Mourão, Leonardo Ferreira, Luiz Henrique e Milton Castro*
 
@@ -40,7 +52,7 @@ O projeto consiste em desenvolver um sistema que permite visualizar , buscar , f
 * Tela de receitas feitas: `/receitas-feitas`;
 * Tela de receitas favoritas: `/receitas-favoritas`.
 
-### Lista de requisitos propostos:
+### Lista de requisitos propostos pela Trybe:
 
 #### Obrigatórios
 
