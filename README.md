@@ -1,16 +1,16 @@
 ## Projeto Recipes App
 
-> Nono e último projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
+> Nono e último projeto do módulo de Front-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
-Em nosso último e mais desafiador projeto em grupo de Front-end, colocamos em prática todos os nossos conhecimentos sobre React, especialmente Context API e React Hooks. Além disso, praticamos a organização de um projeto em equipe com a metodologia Kanban. Inicialmente, desenvolvemos em grupo toda a organização geral do projeto, como estruturação de pastas e rotas. Posteriormente, os requisitos foram distribuídos entre os membros do grupo e desenvolvidos em paralelo. O desenvolvimento da aplicação foi acompanhado no aplicativo Trello.
+Em nosso último e mais desafiador projeto em grupo no módulo de Front-end, colocamos em prática todos os nossos conhecimentos sobre React, especialmente Context API e React Hooks. Além disso, treinamos a organização de um projeto em equipe com a metodologia Kanban. Inicialmente, desenvolvemos em grupo toda a organização geral do projeto, como estruturação de pastas e rotas. Posteriormente, os requisitos foram distribuídos entre os membros do grupo e desenvolvidos em paralelo. O desenvolvimento da aplicação foi acompanhado no aplicativo Trello.
 
 **Objetivo do projeto**
 
 Desenvolver um sistema que permite visualizar , buscar , filtrar , favoritar , compartilhar e acompanhar o processo de preparação de receitas e drinks . A base de dados serão 2 APIs distintas, uma para comidas  [TheMealDB](https://www.themealdb.com/) e outra para bebidas [TheCocktailDB](https://www.thecocktaildb.com/api.php).
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
   - Utilizar Context API para gerenciar o estado global
   - Utilizar o React Hook useState
@@ -29,7 +29,7 @@ Desenvolver um sistema que permite visualizar , buscar , filtrar , favoritar , c
 - <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" align="center" height="30"/> - Jest</a>
 - <a href="https://trello.com/"><img src="https://trackingtime.co/wp-content/themes/trackingtime-v4/img/temp/logos/trello.png" title="Trello" height="30" align="center"/>  - Trello</a>
 
-*Projeto desenvolvido em grupo com Gustavo Mourão, Leonardo Ferreira, Luiz Henrique e Milton Castro*
+*Projeto desenvolvido em grupo com [Gustavo Mourão](https://github.com/Gustavo-Mourao), [Leonardo Ferreira](https://github.com/leo606), [Luiz Henrique](https://github.com/lzzhenrique) e [Milton Castro](https://github.com/castromilton07)*
 
 ---
 
@@ -184,3 +184,7 @@ Desenvolver um sistema que permite visualizar , buscar , filtrar , favoritar , c
 #### 85 - Redirecione a pessoa usuária que, ao clicar no botão de "Receitas Favoritas", a rota deve mudar para a tela de receitas favoritas
 #### 86 - Redirecione a pessoa usuária que, ao clicar no botão de "Receitas Feitas", a rota deve mudar para a tela de receitas feitas
 #### 87 - Redirecione a pessoa usuária que, ao clicar no botão de "Sair", o `localStorage` deve ser limpo e a rota deve mudar para a tela de login
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
